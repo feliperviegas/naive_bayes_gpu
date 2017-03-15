@@ -1,1 +1,2 @@
-# naive_bayes_gpu
+# Naive Bayes - GPU (CUDA)
+
